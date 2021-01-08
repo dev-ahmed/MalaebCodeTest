@@ -1,0 +1,6 @@
+module Pods_MalaebCodeTest_MalaebCodeTestTests {
+  umbrella header "Pods-MalaebCodeTest-MalaebCodeTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
