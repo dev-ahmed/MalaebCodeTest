@@ -194,7 +194,6 @@
 				407DF051ED66CCE9DE94DA4C /* Pods-MalaebCodeTest-tvOSTests.debug.xcconfig */,
 				7AFC23C3257D48684F01E595 /* Pods-MalaebCodeTest-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
